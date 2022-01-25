@@ -1,5 +1,7 @@
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
+preserve_hierarchy: true
 files:
-
   - source: /ios/fastlane/metadata/en-US/description.txt
     translation: /ios/fastlane/metadata/%two_letters_code%/description.txt
     languages_mapping:
