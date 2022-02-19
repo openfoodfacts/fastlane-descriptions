@@ -22,12 +22,12 @@ To discover the volunteer-run Open Food Facts project, visit https://world-en.op
 
 - Open Food Facts is a food products database made by everyone, for everyone.
 - You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
-- Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways. 
+- Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. Muna da ayyuka masu ban sha'awa da yawa waɗanda zaku iya ba da gudummawarsu ta hanyoyi daban-daban. 
 - You can start contributing today by adding a product from your fridge. 
 
 ▶ Get the Facts
 
-- Open Food Facts helps you to make sense of the fine print on products labels. Za ku iya samun:
+- Open Food Facts helps you to make sense of the fine print on products labels. You will be able to find:
 - carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
 - Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
 - brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher ...), traceability information (packaging codes, origins of ingredients)
@@ -35,7 +35,7 @@ To discover the volunteer-run Open Food Facts project, visit https://world-en.op
 
 ▶ Based on Science, helping back Science!
 
-- We don't make up things. We rely on peer-reviewed science.
+- We don't make up things. Mun dogara da ilimin kimiya na mutane.
 - The Nutri-Score has been created by the independent French team led by Professor Hercberg.
 - The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
 - You can get a synthesis of EFSA exposure levels on food additives.
@@ -43,7 +43,7 @@ To discover the volunteer-run Open Food Facts project, visit https://world-en.op
 
 ▶ Your food, your data
 
-- Bayananka naka ne, kuma ba a taɓa aika shi ta yanar gizo ba
+- Your data is yours, and is never sent online
 - You use the app anonymously by default
 
 ▶ Full History
@@ -69,12 +69,12 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 
 - Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
 - Speed up your shopping by doing an initial screening of your food with Open Food Facts. 
-- Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
+- Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. Don haka koyaushe ku rinka bincike da kanku, tare da marufin.
 
 ▶ Say hello and/or join us!
 
 Open Food Facts is also available on the web at https://world-en.openfoodfacts.org
 
-Questions, feedback : contact@openfoodfacts.org
+Tambayoyi, amsawa: kakira@openfoodfacts.org
 
 For cosmetics, you can install Open Beauty Facts.

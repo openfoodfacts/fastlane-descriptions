@@ -1,1 +1,1 @@
-Skan fødevarestregkoder for at vide, hvilke produkter som er gode for dig (næringskvalitet: Nutri-Score, NOVA-gruppe, tilsætningsstoffer og allergenalarm) og kloden!
+Skan stregkoder på fødevarer for at vide, hvilke produkter der er gode for dig (ernæringsmæssig kvalitet: Nutri-Score, NOVA-gruppe, tilsætningsstoffer og allergenadvarsler) og planeten!

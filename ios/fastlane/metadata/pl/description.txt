@@ -21,16 +21,16 @@ Aby odkryć projekt Open Food Facts prowadzony przez wolontariuszy, odwiedź htt
 ▶ Przyczyń się do przejrzystości Żywność
 
 Open Food Facts to baza danych tworzona przez każdego dla wszystkich.
-Możesz z niej korzystać aby wybierać lepsze jedzenie. Ponieważ to są otwarte dane, możesz je wykorzystać w dowolnym celu.
-Open Food Facts to projekt nie dochodowy tworzony przez tysiące wolontariuszy z całego świata. Mamy wiele ekscytujących projektów, w których możesz uczestniczyć na wiele różnych sposobów. 
+Ponieważ to są otwarte dane, możesz je wykorzystać w dowolnym celu.
+Open Food Facts to projekt nie dochodowy tworzony przez tysiące wolontariuszy z całego świata. Jest dużo ciekawych projektków do których możesz dołączyć. 
 - Możesz zaangażować się już dzisiaj, dodając produkt z twojej lodówki. 
 
-▶ Poznaj prawdę
+▶ Poznaj fakty
 
-Open Food Facts pomaga zrozumieć drobny tekst na etykietach. Będziesz mógł znaleźć:
+Open Food Facts pomaga zrozumieć drobny tekst na etykietach. Będziesz mógł również znaleźć (zgodnie ze wskazówkami umieszczonymi na produktach):
 - emisję dwutlenku węgla (CO2) i typ opakowania (oraz instrukcje dotyczące recyklingu),
 - wynik Nutri-Score (ocena wartości odżywczej), składniki odżywcze, zawartość tłuszczu w tym kwasy tłuszczowe nasycone, zawartość węglowodanów w tym cukry proste, błonnik, białko i sól oraz sód.
-- alergeny, marki oraz etykiety produktów (bio, bezglutenowe, wegańskie, wegetariańskie, halal, koszerne ...), informacje o pochodzeniu (kody opakowań, pochodzenie składników)
+- marki, alergeny, etykiety (organiczne, bezglutenowe, wegańskie, wegetariańskie, halal, koszerne ...), informacje o pochodzeniu (kody opakowań, pochodzenie składników)
 - Na winach i piwach znajdziesz informacje o zawartości alkoholu.
 
 ▶Według nauki i dla nauki!
@@ -43,7 +43,7 @@ Open Food Facts pomaga zrozumieć drobny tekst na etykietach. Będziesz mógł z
 
 ▶ Twoje jedzenie, twoje dane
 
-- Twoje dane należą do Ciebie i nigdy nie będą przesyłane online
+Twoje dany nigdy nie są wysyłane online
 - Domyślnie używasz aplikacji anonimowo
 
 ▶ Pełna historia
@@ -58,7 +58,7 @@ Skanuj z prędkością światła (nawet jeśli jesteś w samolocie, łodzi podwo
 
 - Cała planeta w twojej kieszeni! 
 - Możesz dodać nowe produkty, nawet nie mając teraz połączenia.
-- W celu ograniczenia zużycia danych, jak i lepszego zarządzania energią aplikacja ładuje tylko absolutnie niezbędne elementy.
+- The app loads only the strict necessary to reduce data and battery consumption.
 
 ▶ Poznaj Nutri-Score, NOVA oraz listę sztucznych dodatków dla każdego nowego produktu w zaledwie 45 s.
 

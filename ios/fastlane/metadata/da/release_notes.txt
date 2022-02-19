@@ -1,16 +1,16 @@
-1. Det er nu muligt at redigere et produkt (skub skannerkortet op og tryk på "Redigér dette produkt" på siden Oversigt.
-2. Adskillige visnings- og formuleringsproblemer er løst.
+1. Det er nu muligt at redigere et produkt (skub skanningskortet op, og tryk på "Redigér dette produkt" på oversigtssiden).
+2. Adskillige visnings- og formuleringsproblemer er retter.
 
 -- Tidligere på Open Food Facts --
 
-1. Ultra-hurtig, offline stregkodeskanning over hele kloden. Træf bedre fødevarevalg i enhver situation.
-2. Skan for at få næringskvaliteten via Nutri-Score og for at identificere ultraforarbejdede fødevarer via NOVA.
-3. Enhedsbaseret, ubegrænset produkthistorik.
+1. Ultrahurtig, offline stregkodeskanning for hele planeten. Foretag bedre madvalg under alle forhold.
+2. Skan for at få den ernæringsmæssige kvalitet med Nutri-Score samt identificere ultraforarbejdede fødevarer med NOVA.
+3. Enhedslagret, ubegrænset produkthistorik.
 4. Øjeblikkelig søgning i 800.000 produkter.
-5. Opsæt advarsler om allergener. 
+5. Indstil alarmer for allergener. 
 
-Mange tak til de frivillige og bidragsydere til Open Food Facts, som har skabt disse nye funktioner!
+Mange tak til de frivillige og bidragsyderne til Open Food Facts, som har udviklet disse nye funktioner!
 
-Open Food Facts er et nonprofit-projekt, der er udviklet af tusindvis af frivillige fra hele verden. Slut dig til os på https://en.openfoodfacts.org
+Open Food Facts er et non-profit projekt, der har til formål at levere åbne fødevaredata fra hele verden. Slut dig til os på https://en.openfoodfacts.org
 
-Skan fødevarestregkoder for at vide, hvilke produkter som er gode for dig (næringskvalitet: Nutri-Score, NOVA-gruppe, tilsætningsstoffer og allergenalarm) og kloden!
+Skan stregkoder på fødevarer for at vide, hvilke produkter der er gode for dig (ernæringsmæssig kvalitet: Nutri-Score, NOVA-gruppe, tilsætningsstoffer og allergenadvarsler) og planeten!

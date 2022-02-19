@@ -1,16 +1,16 @@
-1. It's now possible to edit a product (slide-up the scan card, and tap "Edit this product" on the Summary page.
-2. We fixed several display and wording issues.
+1. Acum este posibil să editați un produs (glisați în sus cardul de scanare și atingeți „Editați acest produs” pe pagina Rezumat.
+2. Am remediat mai multe probleme de afișare și de redactare.
 
--- Previously on Open Food Facts --
+-- Anterior despre Open Food Facts --
 
-1. Ultra-fast, offline barcode scan for the whole planet. Make better food choices in any condition.
-2. Scan to get the nutritional quality with the Nutri-Score and to identify ultra-processed foods with NOVA.
-3. On-device, unlimited product history.
-4. Instant search through 800 000 products.
-5. Set alerts for allergens. 
+1. Scanare ultra-rapidă, offline, a codurilor de bare pentru întreaga planetă. Faceți alegeri alimentare mai bune în orice condiție.
+2. Scanați pentru a obține calitatea nutrițională cu Nutri-Score și pentru a identifica alimentele ultraprocesate cu NOVA.
+3. Pe dispozitiv, istoric nelimitat al produsului.
+4. Căutare instantanee prin 800 000 de produse.
+5. Setați alerte pentru alergeni. 
 
-Many thanks to the volunteers and contributors of Open Food Facts who created these new features!
+Multe mulțumiri voluntarilor și colaboratorilor Open Food Facts care au creat aceste noi funcții!
 
-Open Food Facts is a non-profit project to open food data from around the world. Join us on https://en.openfoodfacts.org
+Open Food Facts este un proiect non-profit de deschidere a datelor despre alimente din întreaga lume. Alăturați-vă nouă pe https://en.openfoodfacts.org
 
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet!
+Scanează codul de bare al produselor alimentare pentru a ști ce produse sunt bune pentru tine (calitate nutrițională: Nutri-Score, grup NOVA, alerte aditivi și alergeni) și planetă!

@@ -1,1 +1,1 @@
-https://world.openfoodfacts.org/faq&hl=nl
+https://world.openfoodfacts.org/faq&amp;hl=nl

@@ -1,16 +1,16 @@
 
-▶ Find & Compare more than 930.000 products
+▶ Намери и сравни повече от 930 000 продукта
 
 The app allows to view the 930.000 products (including 175.000 in the US) already contained in the free and open database Open Food Facts, and also to add pictures and data for new products.
 
-To discover the volunteer-run Open Food Facts project, visit https://world-en.openfoodfacts.org
+За да откриеш управлявания от доброволци проект Open Food Facts, посети https://world-en.openfoodfacts.org
 
-▶ Choose the products that are good for you
+▶ Избери продуктите, които са добри за теб
 
-- The Nutri-Score grade, from "A" to "E" >> Nutritional quality
-- The NOVA group, from "1" to "4" >> Find the Ultra-Processed food
+- Оценката Nutri-Score, от "A" до "E" >> Хранително качество
+- Групата NOVA, от "1" до "4" >> Намери ултра-преработената храна
 
-▶ And good for the planet!
+▶ И добре за планетата!
 
 - The carbon impact of your food
 - Get a sense of how much of your daily carbon quota you're using for food
@@ -18,43 +18,43 @@ To discover the volunteer-run Open Food Facts project, visit https://world-en.op
 - Join us and help us to bring the Carbon Impact to your country!
 - To display a Carbon Impact, a product must have a complete ingredient list with % of meat or fish and a quantity
 
-▶ Contribute to Food Transparency
+▶ Допринеси за прозрачността при храните
 
-- Open Food Facts is a food products database made by everyone, for everyone.
-- You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
-- Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways. 
-- You can start contributing today by adding a product from your fridge. 
+- Open Food Facts е база данни за хранителни продукти, създадена от всеки, за всеки.
+- Можеш да го използваш, за да правиш по-добър избор на храна и тъй като е с отворени данни, всеки може да го използва повторно за всякакви цели.
+- Open Food Facts е проект с нестопанска цел, разработен от хиляди доброволци от цял свят. Имаме много вълнуващи проекти, на които можеш да допринесеш по много различни начини. 
+- Можеш да започнеш да допринасяш днес, като добавиш продукт от твоят хладилник. 
 
 ▶ Get the Facts
 
-- Open Food Facts helps you to make sense of the fine print on products labels. You will be able to find:
-- carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
+- Open Food Facts ти помага да разбереш дребния шрифт върху етикетите на продуктите. Ще можеш да намериш:
+- въглероден отпечатък (емисии на CO2) и опаковка (както и инструкции за рециклиране),
 - Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
-- brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher ...), traceability information (packaging codes, origins of ingredients)
-- On wines and beers, you will find the alcohol content.
+- марки, алергени, етикети (био, без глутен, веган, вегетарианско, халал, кашер ...), проследимост на продуктите (кодове на опаковките, произход на съставките)
+- При вината и бирата ще откриеш съдържанието на алкохол.
 
-▶ Based on Science, helping back Science!
+▶ Въз основа на науката, помагайки на науката!
 
-- We don't make up things. We rely on peer-reviewed science.
-- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
+- Не си измисляме нещата. We rely on peer-reviewed science.
+- Nutri-Score е създаден от независим френски екип, ръководен от професор Херкберг.
 - The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
 - You can get a synthesis of EFSA exposure levels on food additives.
-- The Open Food Facts community is collaborating with research teams across the planet to improve nutrition research that benefits all.
+- Open Food Facts общността си сътрудничи с изследователски екипи от цялата планета, за да подобри изследванията за хранене, които са от полза за всички.
 
-▶ Your food, your data
+▶ Твоята храна, твоите данни
 
-- Your data is yours, and is never sent online
-- You use the app anonymously by default
+- Данните са твои и никога не се изпращат онлайн
+- Използваш приложението анонимно по подразбиране
 
-▶ Full History
+▶ Пълна история
 
-- Your history is YOURS. As a result, It stays on YOUR device.
-- Get a full history of your scans
-- You will soon be able to export your scan history
+- Твоята история е ТВОЯ. В резултат на това тя остава на ТВОЕТО устройство.
+- Получи пълна история на твоите сканирания
+- Скоро ще можеш да експортираш историята ти на сканиране
 
-▶ Offline Scan: Scan in ANY condition!
+▶ Офлайн сканиране: Сканиране във ВСЯКО условие!
 
-Scan at the speed of light (even if you’re on a plane, submarine or supermarket)
+Сканирай със скоростта на светлината (дори ако си в самолет, подводница или супермаркет)
 
 - The whole planet, in your pocket ! 
 - You can add new products, even if you don't have an Internet connection right now.
@@ -62,19 +62,19 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 
 ▶ Get the Nutri-Score, NOVA groups and additives on any new product in 45s.
 
-- To add a new product, take pictures of the ingredients list and nutrition facts table.
-- Validate the automatically recognized ingredients list, choose a category and type in the nutrition facts to get Nutri-Score and NOVA.
+- За да добавиш нов продукт, направи снимки на списъка със съставките и таблицата с хранителни стойности.
+- Потвърди автоматично разпознатия списък със съставки, избери категория и въведи хранителните стойности, за да получиш Nutri-Score и NOVA.
 
 ▶ Set up allergen alerts on products
 
-- Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping by doing an initial screening of your food with Open Food Facts. 
+- Мляко, глутен, яйца, соя, ядки, риба, целина, горчица, серен диоксид и сулфити, фъстъци, сусамови семена, ракообразни, мекотели или алергия към лупина?
+- Ускорете пазаруването си, като направиш първоначална проверка на храната си с Open Food Facts. 
 - Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
 
-▶ Say hello and/or join us!
+▶ Кажи здравей и/или се присъедини към нас!
 
-Open Food Facts is also available on the web at https://world-en.openfoodfacts.org
+Open Food Facts също е достъпен в мрежата на адрес https://world-en.openfoodfacts.org
 
-Questions, feedback : contact@openfoodfacts.org
+Въпроси, коментари и обратна връзка : contact@openfoodfacts.org
 
-For cosmetics, you can install Open Beauty Facts.
+За козметиката можеш да инсталираш Open Beauty Facts.

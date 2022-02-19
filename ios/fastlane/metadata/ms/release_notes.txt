@@ -1,4 +1,4 @@
-1. It's now possible to edit a product (slide-up the scan card, and tap "Edit this product" on the Summary page.
+1. Kini anda boleh mengedit sesuatu produk (luncurkan kad imbasan ke atas dan ketik "Edit produk ini" pada halaman Ringkasan.
 2. We fixed several display and wording issues.
 
 -- Previously on Open Food Facts --
