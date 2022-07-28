@@ -22,20 +22,20 @@ Per scoprire il progetto Open Food Facts gestito da volontari, visitare https://
 
 - Open Food Facts è un database di prodotti alimentari realizzato da tutti, per tutti.
 - Puoi usarlo per fare scelte alimentari migliori e, poiché si tratta di dati liberi, chiunque può riutilizzarlo per qualsiasi scopo.
-- Open Food Facts è un progetto senza scopo di lucro sviluppato da migliaia di volontari provenienti da tutto il mondo. Abbiamo molti progetti entusiasmanti a cui puoi contribuire in molti modi diversi. 
+- Open Food Facts è un progetto senza scopo di lucro sviluppato da migliaia di volontari provenienti da tutto il mondo. Abbiamo molti progetti interessanti a cui puoi contribuire in molti modi diversi. 
 - Puoi iniziare a contribuire oggi aggiungendo un prodotto dal tuo frigorifero. 
 
 ▶ Ottieni i fatti
 
-- Open Food Facts ti aiuta a dare un senso alle piccole scritte sulle etichette dei prodotti. Sarai in grado di trovare:
+- Open Food Facts ti aiuta a dare un senso alle piccole scritte sulle etichette dei prodotti. Sarai anche in grado di trovare (secondo le indicazioni presenti sui prodotti):
 - l'impronta di carbonio (emissioni di CO2) e l'imballaggio (comprese le istruzioni per il riciclo),
 - il Nutriscore (punteggio nutrizionale), i nutrienti, il contenuto in grassi, gli acidi grassi saturi, i carboidrati, gli zuccheri, le fibre, le proteine, il sale e il sodio.
-- i marchi, gli allergeni, le etichette (bio, senza glutine, vegano, vegetariano, halal, kosher ...), informazioni sulla tracciabilità (codici di imballaggio, origine degli ingredienti)
+- le marche, gli allergeni, le etichette (bio, senza glutine, vegano, vegetariano, halal, kosher ...), informazioni sulla tracciabilità (codici di imballaggio, origine degli ingredienti)
 - Sui vini e sulle birre troverai il contenuto alcolico.
 
 ▶ Basato sulla scienza, aiuta a sostenere la scienza!
 
-- Non inventiamo le cose. Ci affidiamo alla scienza peer-reviewed.
+- Non inventiamo le cose. Facciamo affidamento sulla scienza peer-reviewed.
 - Il Nutri-Score è stato creato dal team francese indipendente guidato dal professor Hercberg.
 - I gruppi NOVA sulla lavorazione degli alimenti sono stati progettati dal team internazionale del professor Monteiro.
 - È possibile ottenere una sintesi dei livelli di esposizione dell'EFSA sugli additivi alimentari.
@@ -57,8 +57,8 @@ Per scoprire il progetto Open Food Facts gestito da volontari, visitare https://
 Scansione alla velocità della luce (anche se sei su un aereo, sottomarino o supermercato)
 
 - L'intero pianeta, nella tua tasca! 
-- Puoi aggiungere nuovi prodotti anche senza una connessione internet.
-- L'app carica dal server solo il minimo indispensabile per ridurre i dati utilizzati e il consumo della batteria.
+- Puoi aggiungere nuovi prodotti, anche senza una connessione internet disponibile sul momento.
+- L'app carica solo il minimo indispensabile per ridurre i dati e il consumo della batteria.
 
 ▶ Ottieni il punteggio nutrizionale, i gruppi NOVA e gli additivi su qualsiasi nuovo prodotto in 45 secondi.
 
@@ -69,7 +69,7 @@ Scansione alla velocità della luce (anche se sei su un aereo, sottomarino o sup
 
 - Sei allergico al latte, glutine, uova, soia, noci, pesce, sedano, senape, anidride solforosa e solfiti, arachidi, semi di sesamo, crostacei, molluschi o lupini?
 - Accelera i tuoi acquisti effettuando uno screening iniziale del tuo cibo con Open Food Facts. 
-- Fai attenzione che le informazioni ed il rilevamento potrebbero non essere accurati al 100%. Quindi ricontrolla sempre la confezione.
+- Fai attenzione che le informazioni ed il rilevamento potrebbero non essere accurati al 100%. Quindi controlla sempre da solo, con la confezione.
 
 ▶ Saluta e/o unisciti a noi!
 

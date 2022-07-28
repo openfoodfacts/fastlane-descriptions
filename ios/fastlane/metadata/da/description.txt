@@ -1,80 +1,80 @@
 
 ▶ Find og sammenlign flere end 930.000 produkter
 
-Appen giver mulighed for at se de 930.000 produkter (inkl. 175.000 i USA), som allerede er indeholdt i den gratis og åbne database Open Food Facts samt tillige at tilføje fotos og data for nye/manglende produkter.
+Det er via appen muligt at se de flere end 930.000 produkter (herunder 175.000 i USA), som allerede findes i den gratis og åbne Open Food Facts-database samt at tilføje fotos og data for nye produkter.
 
-For se det frivilligt drevne Open Food Facts-projet, så besøg https://world-en.openfoodfacts.org
+For at finde det frivilligt drevne Open Food Facts-projekt, besøg https://world-en.openfoodfacts.org
 
-▶ Vælg de produkter, der passer til dig
+▶ Vælg de produkter, som er gode for dig
 
-- Nutri-Score klasse, fra "A" til "E" >> Ernæringsmæssig kvalitet
-- NOVA-gruppe, fra "1" til "4" >> Find de ultraforarbejdede fødevarer
+- Nutri-Score-karakter, fra "A" til "E" >> Ernæringsmæssig kvalitet
+- NOVA-gruppe, fra "1" til "4" >> Find den ultraforarbejdede fødevare
 
-▶ Og god til planeten!
+▶ Og god for planeten!
 
-- CO2-påvirkningen fra din mad
-- Få en fornemmelse af, hvor meget af din daglige CO2-kvote du bruger på mad
-- Baseret på fodspor kalkuleret for Frankrig af ADEME.
-- Deltag og hjælp os med at bringe fokus på CO2-påvirkningen til dit land!
-- For at vise en CO2-påvirkning skal et produkt have en komplet ingrediensliste med %-angivelse af kød eller fisk samt en vulumenangivelse
+- CO2-påvirkningen af din mad
+- Få en fornemmelse af, hvor meget af din daglige CO2-kvote, der bruges på mad
+- Baseret på CO2-aftryk beregnet for Frankrig af ADEME.
+- Deltag og hjælp med at bringe CO2-påvirkning til dit land!
+- For visning af CO2-påvirkning skal et produkt have en komplet ingrediensliste med % kød/fisk og en mængdeangivelse
 
-▶ Bidrag til fødevaregennemsigtighed
+▶ Bidrag til fødevaretransparens
 
-- Open Food Facts is a food products database made by everyone, for everyone.
-- You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
-- Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways. 
+➜ Open Food Facts er en fødevareproduktdatabase kreeret af alle, for alle.
+➜ Den kan bruges til at træffe bedre fødevarevalg, og da det er åbne data, kan alle genbruge dem til ethvert formål.
+➜ Open Food Facts er et nonprofit-projekt udviklet af tusindvis af frivillige fra hele verden. Vi har mange spændende projekter, du kan bidrage til på mange forskellige måder. 
 - Du kan begynde at bidrage i dag ved at tilføje et produkt fra dit køleskab. 
 
 ▶ Få faktaene
 
-- Open Food Facts helps you to make sense of the fine print on products labels. Du vil kunne finde:
-- carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
-- Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
-- brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher ...), traceability information (packaging codes, origins of ingredients)
-- On wines and beers, you will find the alcohol content.
+- Open Food Facts hjælper med at dechifrere det med småt på produktetiketter. Man vil kunne finde:
+- CO2-fodaftryk (emissioner) og emballage (samt instruktioner til genbrug)
+- Nutriscore (ernæringsmæssig score), næringsstoffer, fedt/-indhold, mættede fedtsyrer, kulhydrater, sukkertyper, fibre, proteiner, salte og natrium.
+➜ varemærker, allergener, etiketter (bio, glutenfri, veganer, vegetar, halal, kosher...), sporbarhedsinformation (emballagekoder, ingrediensoprindelser)
+- På vin og øl fremgår alkoholindholdet.
 
-▶ Baseret på videnskab, hjælper videnskaben tilbage!
+- Baseret på videnskab, hjælper videnskaben til gengæld!
 
-- Vi opdigter ikke ting. Vi stoler på anmeldt af ligeværdige-videnskaben.
-- Nutri-Score blev opfundet af et uafhængigt franske forskerhold ledet af professor Hercberg.
-- NOVA-grupperne vedr. fødevareforarbejdning er designet af professor Monteiro' internationale team.
-- Du kan få en syntese af EFSA-eksponeringsniveauer for fødevaretilsætningsstoffer.
-- Open Food Facts-fællesskabet samarbejder med forskerhold på tværs af kloden for at forbedre ernæringsforskning til gavn for alle.
+- Vi finder ikke på tingene. Vi stoler på ligeværdigt vurderet videnskab.
+- Nutri-Score er skabt af et uafhængigt franske team ledet af prof. Hercberg.
+- NOVA-grupperne for fødevareforarbejdning er designet af prof. Monteiros internationale team.
+- Man kan få en syntese af EFSA-eksponeringsniveauer for fødevaretilsætningsstoffer.
+- Open Food Facts-fællesskabet samarbejder med forskerteams kloden over for at forbedre ernæringsforskning til gavn for alle.
 
-▶ Dine fødevarer, dine data
+▶ Din mad, dine data
 
-- Dine data er dine, og de sendes aldrig online
-- Du benytter som standard app'en anonymt
+- Dine data er dine, og de lægges aldrig online
+- Appen bruges som standard anonymt
 
-▶ Fuld historie
+▶ Fuld historik
 
-- Din historie er DIN. Som en konsekvens forbliver den på DIN enhed.
+- Din historik er DIN. Derfor forbliver den på DIN enhed.
 - Få en komplet historik over dine skanninger
-- Du vil snart kunne eksportere din skanningshistorik
+- Det vil snart være muligt at eksportere skanningshistorik
 
-▶ Offlineskan: Skan i ENHVER situation!
+▶ Offlineskanning: Skan under ALLE forhold!
 
-Skan med lysets hastighed (selvom du er i et fly, ubåd eller supermarked)
+Skan med lysets hastighed (selv hvis man er i et supermarked, fly eller på en ubåd)
 
-- Hele kloden, i din lomme! 
+- Hele planeten, i din lommen! 
 - Du kan tilføje nye produkter, selv hvis du ikke har en tilgængelig Internetforbindelse.
-- App'en indlæser kun det strengt nødvendige for at reducere data- og batteriforbrug.
+- Appen indlæser kun det strengt nødvendige for at reducere data- og strømforbrug.
 
 ▶ Få Nutri-Score, NOVA-grupper og tilsætningsstoffer for ethvert nyt produkt på 45s.
 
-- For at tilføje et nyt produkt, tag et foto af ingredienslisten og næringsfaktatabellen.
-- Bekræft listen over automatisk genkendte ingredienser, vælg en kategori og angiv næringsfakta for at få Nutri-Score og NOVA.
+- Tag fotos af ingrediens- og ernæringsfaktaoversigterne for at tilføje et nyt produkt.
+- Bekræft den auto-genkendte ingrediensoversigt, vælg en kategori og angiv ernæringsfakta for at få Nutri-Score og NOVA.
 
-▶ Opret allergenalarmer for produkter
+▶ Opsæt allergenadvarsler på produkter
 
 - Mælk, gluten, æg, sojabønner, nødder, fisk, selleri, sennep, svovldioxid og sulfitter, jordnødder, sesamfrø, krebsdyr, bløddyr eller lupinallergi?
-- Spped op indkøb ved at foretage en indledende screening af din mad med Open Food Facts. 
-- Vær agtpågivende, oplysningerne er muligvis íkke 100% korrekte, og detekteringer er muligvis ikke 100% præcise. Så dobbeltsjek altid emballagen selv.
+- Gør indkøb hurtigere ved at foretage en indledende screening af din mad med Open Food Facts. 
+- Vær dog opmærksom, da oplysninger og detektering muligvis ikke er 100% nøjagtige. Dobbelttjek derfor altid selv ift. emballagen.
 
-▶ Sig hej og/eller tilslut dig!
+▶ Sig hej og/eller tilmeld dig!
 
-Open Food Facts er også tilgængelig på Internet via https://world-en.openfoodfacts.org
+Open Products Facts er også tilgængelig på nettet via https://world-en.openproductsfacts.org
 
-Questions, feedback : contact@openfoodfacts.org
+Spørgsmål, feedback: contact@openfoodfacts.org
 
-Til kosmetik kan du installere Open Beauty Facts.
+Til kosmetik kan Open Beauty Facts installeres.

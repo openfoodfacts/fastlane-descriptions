@@ -57,7 +57,7 @@ To discover the volunteer-run Open Food Facts project, visit https://world-en.op
 Scan at the speed of light (even if you’re on a plane, submarine or supermarket)
 
 - The whole planet, in your pocket ! 
-- You can add new products, even if you don't have an Internet connection right now.
+- Új termékeket is hozzáadhat, még akkor is, ha éppen nincs internetkapcsolata.
 - The app loads only the strict necessary to reduce data and battery consumption.
 
 ▶ Get the Nutri-Score, NOVA groups and additives on any new product in 45s.

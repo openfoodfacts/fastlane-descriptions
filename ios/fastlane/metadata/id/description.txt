@@ -1,16 +1,16 @@
 
-Cari & Bandingkan lebih dari 930.000 produk
+▶ Find & Compare more than 930.000 products
 
-Anda bisa melihat 930.000 produk (termasuk 175.000 di AS) yang terdaftar dalam database gratis Open Food Facts, juga menambahkan gambar dan data produk baru dalam aplikasi ini.
+The app allows to view the 930.000 products (including 175.000 in the US) already contained in the free and open database Open Food Facts, and also to add pictures and data for new products.
 
-Untuk informasi lebih lanjut mengenai proyek relawan Open Food Facts, kunjungi https://world-en.openfoodfacts.org
+To discover the volunteer-run Open Food Facts project, visit https://world-en.openfoodfacts.org
 
-Pilih produk yang baik untuk Anda
+▶ Choose the products that are good for you
 
 - The Nutri-Score grade, from "A" to "E" >> Nutritional quality
 - The NOVA group, from "1" to "4" >> Find the Ultra-Processed food
 
-Dan baik untuk bumi!
+▶ And good for the planet!
 
 - The carbon impact of your food
 - Get a sense of how much of your daily carbon quota you're using for food
@@ -22,20 +22,20 @@ Dan baik untuk bumi!
 
 - Open Food Facts is a food products database made by everyone, for everyone.
 - You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
-- Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways. 
+- Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. Kami memiliki banyak proyek menyenangkan yang padanya Anda dapat berkontribusi dengan berbagai cara. 
 - You can start contributing today by adding a product from your fridge. 
 
-▶ Get the Facts
+▶ Dapatkan Faktanya
 
-- Open Food Facts helps you to make sense of the fine print on products labels. You will be able to find:
+- Open Food Facts helps you to make sense of the fine print on products labels. Anda akan dapat menemukan:
 - carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
 - Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
-- brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher ...), traceability information (packaging codes, origins of ingredients)
+- merek, alergen, label (bio, bebas gluten, vegan, vegetarian, halal, kosher ...), informasi keterlacakan (kode kemasan, asal usul bahan)
 - On wines and beers, you will find the alcohol content.
 
 ▶ Based on Science, helping back Science!
 
-- We don't make up things. We rely on peer-reviewed science.
+- We don't make up things. Kami mengandalkan sains yang diulas rekan ilmuwan lainnya.
 - The Nutri-Score has been created by the independent French team led by Professor Hercberg.
 - The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
 - You can get a synthesis of EFSA exposure levels on food additives.
@@ -43,7 +43,7 @@ Dan baik untuk bumi!
 
 ▶ Your food, your data
 
-- Datamu adalah milikmu, tidak akan diunggah
+- Data Anda adalah milik Anda, dan tidak pernah dikirim secara online
 - You use the app anonymously by default
 
 ▶ Full History
@@ -57,8 +57,8 @@ Dan baik untuk bumi!
 Scan at the speed of light (even if you’re on a plane, submarine or supermarket)
 
 - The whole planet, in your pocket ! 
-- Bisa menambahkan produk, bahkan tanpa koneksi internet.
-- The app loads only the strict necessary to reduce data and battery consumption.
+- Anda dapat menambahkan produk - produk baru, bahkan jika Anda tidak memiliki koneksi Internet saat ini.
+- Aplikasi hanya memuat data yang diperlukan untuk mengurangi konsumsi data dan baterai.
 
 ▶ Get the Nutri-Score, NOVA groups and additives on any new product in 45s.
 
@@ -69,12 +69,12 @@ Scan at the speed of light (even if you’re on a plane, submarine or supermarke
 
 - Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
 - Speed up your shopping by doing an initial screening of your food with Open Food Facts. 
-- Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
+- Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. Jadi selalu periksa sendiri kemasannya.
 
 ▶ Say hello and/or join us!
 
 Open Food Facts is also available on the web at https://world-en.openfoodfacts.org
 
-Questions, feedback : contact@openfoodfacts.org
+Pertanyaan, umpan balik: contact@openfoodfacts.org
 
 For cosmetics, you can install Open Beauty Facts.

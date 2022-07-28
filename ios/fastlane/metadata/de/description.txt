@@ -1,5 +1,5 @@
 
-▶ Mehr als 930.000 Produkte finden & vergleichen
+▶ Mehr als 930.000 Produkte finden und vergleichen
 
 Die App ermöglicht es, die 930.000 Produkte (davon 175.000 in den USA) anzuzeigen, die bereits in der kostenlosen und offenen Datenbank Open Food Facts enthalten sind, sowie Fotos und Daten für neue Produkte hinzuzufügen.
 
@@ -25,12 +25,12 @@ Um das von Freiwilligen unterstützte Projekt „Open Food Facts” zu entdecken
 • Open Food Facts ist ein gemeinnütziges Projekt, das von Tausenden von Freiwilligen aus der ganzen Welt entwickelt wurde. Wir haben viele spannende Projekte, zu denen Sie auf vielfältige Weise beitragen können. 
 • Sie können noch heute damit beginnen, einen Beitrag zu leisten, indem Sie ein Produkt aus Ihrem Kühlschrank hinzufügen. 
 
-▶ Rufen Sie die Fakten auf
+▶ Fakten abrufen
 
 • Open Food Facts hilft Ihnen, das Kleingedruckte auf Produktetiketten zu verstehen. Sie können finden:
 • CO₂-Fußabdruck (CO2-Emissionen) und Verpackung (sowie Verwertungshinweise),
 • Nutri-Score (Nährwertbewertung), Nährstoffe, Fett/Fettgehalt, gesättigte Fettsäuren, Kohlenhydrate, Zucker, Ballaststoffe, Eiweiß und Salz und Natrium.
-• Marken, Allergene, Etiketten (Bio, Glutenfrei, Vegan, Vegetarisch, Halal, Koscher …), Rückverfolgbarkeitsinformationen (Verpackungscodes, Herkunft der Zutaten)
+• Marken, Allergene, Kennzeichnungen (Bio, glutenfrei, vegan, vegetarisch, halal, koscher ...), Informationen zur Rückverfolgbarkeit (Verpackungscodes, Herkunft der Zutaten)
 • Auf Weinen und Bieren finden Sie den Alkoholgehalt.
 
 ▶ Basierend auf Wissenschaft, hilft es der Wissenschaft zurück!

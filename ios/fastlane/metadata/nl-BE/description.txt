@@ -27,10 +27,10 @@ Om het vrijwillige Open Food Facts project te ontdekken, bezoek https://world-nl
 
 ▶ Ken de feiten
 
-Open Food Facts helpt je om de kleine lettertjes op etiketten te begrijpen. Zo kan je vinden:
+Open Food Facts helpt je om de kleine lettertjes op etiketten te begrijpen. Je zal ook kunnen vinden (volgens de aanwijzingen op de producten):
 - de koolstofvoetafdruk (CO2-emissies) en verpakking (evenals recyclinginstructies),
 - Nutri-Score (voedingswaarde), voedingsstoffen, vetgehalte, verzadigde vetzuren, koolhydraten, suikers, vezels, eiwitten en zout,
-- merken, allergenen, logo's (bio, glutenvrij, veganistisch, vegetarisch, halal, kosjer ...), traceerbaarheidsinformatie (verpakkingscodes, oorsprong van ingrediënten),
+- merken, allergenen, labels (biologisch, veganistisch...)
 - en op wijnen en bieren vindt u het alcoholpercentage.
 
 Gebaseerd op wetenschap, helpen wij de wetenschap!
@@ -46,7 +46,7 @@ Gebaseerd op wetenschap, helpen wij de wetenschap!
 - Jouw gegevens zijn van jou en worden nooit online verzonden
 - U gebruikt de app standaard anoniem
 
-Volledige geschiedenis bekijken
+▶ Ken de feiten
 
 - Je geschiedenis is van jou. Dus blijft het op je apparaat.
 - Krijg je volledige scan-geschiedenis
@@ -65,7 +65,7 @@ Verkrijg de Nutri-Score, NOVA groepen en additieven op elk nieuw product in 45s.
 - Maak een foto van de ingrediëntenlijst en de voedingswaardentabel om een nieuw product toe te voegen.
 - Keur een automatisch herkende ingrediëntenlijst goed, kies een categorie en typ de voedingsfeiten in om Nutri-Score en NOVA te krijgen.
 
-Stel allergeenwaarschuwingen in
+▶ Allergenenwaarschuwingen voor producten instellen
 
 - Voor een melk, gluten, eieren, sojabonen, noten, vis, selderij, mosterd, zwaveldioxide en sulfieten, pinda's, sesamzaad, schaaldieren, weekdieren of lupine-allergie
 - Versnel het boodschappen doen door een eerste screening van je voedsel uit te voeren. 
