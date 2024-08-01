@@ -1,9 +1,9 @@
 name: Screenshot generation
 on:
   push:
-    branches: [ '*' ]
+    branches: [ 'impossibletomatch' ]
   pull_request:
-    branches: [ '*' ]
+    branches: [ 'impossibletomatch' ]
 
 jobs:
   test:
